@@ -65,6 +65,18 @@ int main() {
         if (z == 3) {
             //Alpha Numberic 
         }
+        if (z==4) {
+            int s , t ;
+            printf("\n First number > ");
+            scanf("%d",&s);
+            printf("Second number > ");
+            scanf(("%d",&t);
+            if ( s < t) {
+                printf("First number is greater than Second number");
+            }
+           if ( t < s ) {
+                prinf("Second number is reater than First number");
+        }
     }
     return 0;
 }
