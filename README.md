@@ -1,4 +1,4 @@
-Repository Owner_Name : Bhavish Agrawal
+""Repository Owner_Name"": Bhavish Agrawal
 ROLL : 2351001011 
 Programe - Branch : Diploma-C.S.E
 Repository Discribtion : Only mend to accessed by Bhavish Agrawal when required in C programming lab
