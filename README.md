@@ -1,4 +1,4 @@
-#Repository Owner_Name: Bhavish Agrawal
+# Repository Owner_Name: Bhavish Agrawal
 
 C language-ALL is created to store all C programming file from begnning of learning session all files will be uploaded on time of creation and all secondary devices other than Primary device will work as temprary work station for Repository Owner 
 
@@ -7,4 +7,4 @@ devices at location "Fixed Secondary Devices location" will initiate in mean tim
 
 Thank you for reading till here hope you understand everything from given commit detailes for any query :-
 
-> Mail ID : agrawalbhavish07@gmail.com , > agrawalbhavish08@gmail.com
+> Mail ID : agrawalbhavish07@gmail.com , agrawalbhavish08@gmail.com
