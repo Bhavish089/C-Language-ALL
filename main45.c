@@ -3,9 +3,8 @@
 #include <stdlib.h>
 
 int main() {
-    time_t t = time(NULL);
-    printf("%ld",t);
-    struct tm date =*localtime(&t);
-    // printf("Current date is %d-%02d-%02d");
+    time_t t;   // not a primitive datatype
+    time(&t);
+    printf("\nThis program has been writeen at (date and time): %s", ctime(&t));
     return 0;
 }
